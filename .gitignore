@@ -1,0 +1,21 @@
+assignment-1/*
+
+# Gradle cache and generated build files
+.gradle/
+build/
+*/build/
+
+# Local configuration (contains your local Android SDK path - DO NOT commit)
+local.properties
+
+# Android Studio / IntelliJ IDEA workspace files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific hidden files (macOS / Windows)
+.DS_Store
+Thumbs.db
+
+google-services.json
